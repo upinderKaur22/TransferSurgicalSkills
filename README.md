@@ -6,12 +6,12 @@ In this work, we use a unique frequency-domain based feature extraction method t
 
 The robot setup is: 
 
-<img src="https://github.com/upinderKaur22/TransferSurgicalSkills/blob/main/mhsrs.jpg" width="400" height="300" />
+<img src="https://github.com/upinderKaur22/TransferSurgicalSkills/blob/main/mhsrs.jpg" width="500" height="300" />
 
 
 Using the DESK dataset (augmented with DaVinci data), we validate the perfromance of the framework. 
 
-<img src="https://github.com/upinderKaur22/TransferSurgicalSkills/blob/main/mhsrs_2.jpeg" width="400" height="300" />
+<img src="https://github.com/upinderKaur22/TransferSurgicalSkills/blob/main/mhsrs_2.jpeg" width="500" height="300" />
 
 For the Taurus II and the da Vinci, the framework showed an accuracy of 97.5% and 93%, respectively, training only with simulation data. achieving 
 
