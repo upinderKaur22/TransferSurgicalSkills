@@ -10,7 +10,7 @@ The robot setup is:
 
 Using the DESK dataset (augmented with DaVinci data), we validate the perfromance of the framework. 
 
-<img src="https://github.com/upinderKaur22/TransferSurgicalSkills/blob/main/mhsrs_framework.JPG" width="1000" height="300" />
+<img src="https://github.com/upinderKaur22/TransferSurgicalSkills/blob/main/mhsrs_framework.JPG" width="1000" height="200" />
 
 For the Taurus II and the da Vinci, the framework showed an accuracy of 97.5% and 93%, respectively, training only with simulation data. achieving 
 
