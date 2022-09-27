@@ -4,13 +4,14 @@
  
 In this work, we use a unique frequency-domain based feature extraction method to transfer surgical skills among non-surgical and surgical robots. 
 
-<img src="https://github.com/upinderKaur22/TransferSurgicalSkills/blob/main/images/mhsrs_2.tif" width="400" height="300" />
+<img src="https://github.com/upinderKaur22/TransferSurgicalSkills/blob/main/mhsrs_2.tif" width="400" height="300" />
 
 Using the DESK dataset (augmented with DaVinci data), we validate the perfromance of the framework. For the Taurus II and the da Vinci, the framework showed an accuracy of 97.5% and 93%, respectively, training only with simulation data. achieving 
 
-<img src="https://github.com/upinderKaur22/TransferSurgicalSkills/blob/main/images/mhsrs_2.tif" width="400" height="300" />
+<img src="https://github.com/upinderKaur22/TransferSurgicalSkills/blob/main/finalresults_MHSRS_allrobots_yumi_taurusSim_results.png" width="400" height="300" />
 
-<img src="https://github.com/CRLPurdue/Clutter_Slices/blob/main/results.png" width="400" height="400" />
+<img src="https://github.com/CRLPurdue/Clutter_Slices/blob/main/finalresults_MHSRS_allrobots_taurus_taurusSim_results.png" width="400" height="400" />
+<img src="https://github.com/CRLPurdue/Clutter_Slices/blob/main/finalresults_MHSRS_allrobots_davinci_taurusSim_results.png" width="400" height="400" />
 
 
 
