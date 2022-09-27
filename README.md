@@ -10,8 +10,8 @@ Using the DESK dataset (augmented with DaVinci data), we validate the perfromanc
 
 <img src="https://github.com/upinderKaur22/TransferSurgicalSkills/blob/main/finalresults_MHSRS_allrobots_yumi_taurusSim_results.png" width="400" height="300" />
 
-<img src="https://github.com/CRLPurdue/Clutter_Slices/blob/main/finalresults_MHSRS_allrobots_taurus_taurusSim_results.png" width="400" height="400" />
-<img src="https://github.com/CRLPurdue/Clutter_Slices/blob/main/finalresults_MHSRS_allrobots_davinci_taurusSim_results.png" width="400" height="400" />
+<img src="https://github.com/upinderKaur22/TransferSurgicalSkills/blob/main/finalresults_MHSRS_allrobots_taurus_taurusSim_results.png" width="400" height="400" />
+<img src="https://github.com/upinderKaur22/TransferSurgicalSkills/blob/main/finalresults_MHSRS_allrobots_davinci_taurusSim_results.png" width="400" height="400" />
 
 
 
