@@ -6,7 +6,7 @@ In this work, we use a unique frequency-domain based feature extraction method t
 
 The robot setup is: 
 
-<img src="https://github.com/upinderKaur22/TransferSurgicalSkills/blob/main/mhsrs.jpeg" width="400" height="300" />
+<img src="https://github.com/upinderKaur22/TransferSurgicalSkills/blob/main/mhsrs.jpg" width="400" height="300" />
 
 
 Using the DESK dataset (augmented with DaVinci data), we validate the perfromance of the framework. 
