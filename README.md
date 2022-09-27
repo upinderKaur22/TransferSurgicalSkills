@@ -1,4 +1,3 @@
-# Dextrous Surgical Skills Transfer 
 # From the dexterous surgical skill to the battlefield—a robotics exploratory study
 ### Authors: Upinder Kaur (@upinderKaur22)(Co-first author) and Glebys Gonzalez (Co-first author). 
  
@@ -11,7 +10,7 @@ The robot setup is:
 
 Using the DESK dataset (augmented with DaVinci data), we validate the perfromance of the framework. 
 
-<img src="https://github.com/upinderKaur22/TransferSurgicalSkills/blob/main/mhsrs_framework.JPG" width="600" height="300" />
+<img src="https://github.com/upinderKaur22/TransferSurgicalSkills/blob/main/mhsrs_framework.JPG" width="1000" height="300" />
 
 For the Taurus II and the da Vinci, the framework showed an accuracy of 97.5% and 93%, respectively, training only with simulation data. achieving 
 
@@ -24,7 +23,7 @@ For the Taurus II and the da Vinci, the framework showed an accuracy of 97.5% an
 
 
 
-For citing this dataset, please use the following citation:
+For citing this work, please use the following citation:
 ```
 @article{gonzalez2021dexterous,
   title={From the dexterous surgical skill to the battlefield—a robotics exploratory study},
@@ -37,4 +36,4 @@ For citing this dataset, please use the following citation:
   publisher={Oxford University Press US}
 }
 ```
-Dataset also available at: https://github.com/upinderKaur22/CRL_ClutterSlices_dataset
+
